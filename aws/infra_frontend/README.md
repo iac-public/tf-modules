@@ -57,7 +57,7 @@ module frontend {
 ### 2-3.Variablesの説明
     - system_name 任意のシステム名を入力
     - env　任意の環境名を入力
-    - record_name　登録済みドメイン名を入力
+    - record_name　登録済みレコード名を入力
 
 ### 2-4.使用例
 
